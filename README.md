@@ -68,7 +68,7 @@
 2. Примените изменения.
 В качестве решения приложите вывод значений ip-адресов команды ```terraform output```.
 
->![задание 4](https://github.com/MindMaze74/terraform_dz2/blob/main/img/4.png)
+>![задание 4](https://github.com/MindMaze74/terraform_dz2/blob/main/img/5.png)
 
 ### Задание 5
 
